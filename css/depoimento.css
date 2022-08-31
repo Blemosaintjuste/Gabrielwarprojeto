@@ -1,0 +1,116 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	color: #ffffff;
+	font-size: 16px;
+	font-family: Arial, Verdana, sans-serif;
+	
+}
+font{
+	color:white;		
+}
+header {
+	width: 100%;
+	text-align: center;
+	background-color: #261400;
+	height: 80px;
+}
+
+body {
+	background-color: #6A3500;
+}
+
+.cabeçalho {
+	min-width: 960px;
+	max-width: 1024px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+main {
+	min-width: 960px;
+	max-width: 1024px;
+	height: 100%;
+	margin: 0 auto;
+}
+.logotipo{
+	width: 160px;
+}
+
+/*---------------------------------*/
+/*-------- SEÇÃO DESTAQUE ---------*/
+/*---------------------------------*/
+
+h1 {
+	background-color: #6A3500;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
+}
+
+#Marcela{
+	float: left;
+}
+#cecília{	
+	float: right;
+}
+#m{
+	text-align: left;
+	height: 410px;
+}
+#c{
+	text-align: left;
+	height: 410px;
+
+}
+#bethania{
+	float: left;
+
+}
+#b{
+	text-align: left;
+	height: 430px;
+}
+#dadospessoais{
+	height: 614px;
+	width: 100%;
+	font-size: 20px;
+	line-height: 50px;
+	padding: 10px;
+}
+#duvida{
+	font-size: 20px;
+	line-height: 50px;
+	padding: 10px;
+
+}
+#Enviar{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #050505;
+
+}
+#sair{
+	color:rgb(7, 4, 2) ;
+}
+footer{
+	width: 100%;
+	text-align: center;
+	background-color: #261400;
+	height: 100px;
+	
+}
+#mapa{
+	float: right ;
+	size: 16px;
+}
+#info{
+	text-align: left;
+	color: aliceblue;
+	font-size: 20px;
+	float: left ;
+	width: 514px;
+}
